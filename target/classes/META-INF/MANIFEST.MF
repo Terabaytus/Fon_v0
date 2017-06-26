@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: wm
+Class-Path: mysql-connector-java-5.1.39.jar httpclient-4.5.2.jar com4j
+ -2.1.jar commons-codec-1.10.jar commons-logging-1.2.jar httpcore-4.4.
+ 4.jar httpmime-4.5.2.jar json-simple-1.1.1.jar junit-4.10.jar hamcres
+ t-core-1.1.jar
+Build-Jdk: 1.8.0_111
+Created-By: Maven Integration for Eclipse
+Main-Class: fully.qualified.Main
+
